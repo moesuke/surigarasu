@@ -1,0 +1,26 @@
+
+[class^='hidden-button-'] {
+  font-size: 16px;
+  text-align: center;
+  padding: 2px 5px;
+  display: block;
+  font-weight: bolder;
+  border-radius: 7px;
+  color: #ffffff;
+  background: #0075c2;
+  cursor: pointer;
+}
+
+/* すりガラスのスタイル */
+
+.hidden-word-style {
+  user-select: none;
+  filter: blur(0.5rem);
+  pointer-events: none;
+
+  white-space: nowrap;
+  color: #0075c2;
+  font-weight:bold;
+}
+
+
