@@ -1,5 +1,5 @@
 
-[class^='hidden-button-'] {
+[class^='suri-button-'] {
   font-size: 16px;
   text-align: center;
   padding: 2px 5px;
@@ -13,11 +13,10 @@
 
 /* すりガラスのスタイル */
 
-.hidden-word-style {
+.suri-style {
   user-select: none;
   filter: blur(0.5rem);
   pointer-events: none;
-
   white-space: nowrap;
   color: #0075c2;
   font-weight:bold;
